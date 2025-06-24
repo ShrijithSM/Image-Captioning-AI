@@ -6,6 +6,7 @@ This project is an AI-powered image captioning web application that automaticall
 
 Try out the live demo: [Image Captioning AI on Hugging Face Spaces](https://huggingface.co/spaces/Xsparkm/Image-Captioning-AI)
 
+
 ## Features
 
 - 🖼️ **Simple Image Upload**: Drag and drop or click to upload any image
