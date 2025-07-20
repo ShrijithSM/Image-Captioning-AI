@@ -1,3 +1,4 @@
+
 # Image Captioning AI
 
 This project is an AI-powered image captioning web application that automatically generates natural language descriptions for uploaded images. Built with Gradio and the BLIP (Bootstrapping Language-Image Pre-training) model, it provides an intuitive interface for users to get accurate and descriptive captions for their images.
