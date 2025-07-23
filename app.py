@@ -2,6 +2,7 @@ import gradio as gr
 from transformers import BlipProcessor, BlipForConditionalGeneration
 from PIL import Image
 
+
 processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
 model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
 
